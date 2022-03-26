@@ -1,5 +1,5 @@
 /**
- * Mosquitoes have 4 stages, the egg, larva, pupa and adult. These stages determinent the behavior and characteristics of the mosquito.
+ * Mosquitoes have 4 stages: the egg, larva, pupa and adult. These stages determinent the behavior and characteristics of the mosquito.
  * 
  * 
  * @author Robert de Haas 
