@@ -1,6 +1,6 @@
-# Anophelesgambiae-population-modelling-2022
+# Anophelesgambiae-population-modeling-2022
 
-Discription of the Anophelesgambiae population modelling 2022.
+This is a description of my model for my profile paper.
 
 In this project the main goal is to see what the effect is of genetically modified mosquitoes (Frankenstein mosquitoes) on the population. 
 The Frankenstein mosquitoes have a gene drive and a gene what gives them immunity to the malaria parasite Plasmodium falciparum. The gene drive makes inheritance of the gene from immunity better. The gene drive inheritance to the off-spring. The females lay Frankenstein eggs if they are also a Frankenstein mosquito or if they mate with a Frankenstein male. The gene drive inheritance with 100%. 
